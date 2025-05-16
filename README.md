@@ -2,6 +2,9 @@
 
 This Python script automates the process of extracting information from a collection of resumes. It reads resumes from a ZIP archive, supports PDF, DOCX, and TXT formats, extracts key details (name, email, phone number, location, and a guessed job title) using the OpenAI API, and then compiles this information into an Excel spreadsheet.
 
+
+![image](https://github.com/user-attachments/assets/644164e8-5c69-459b-af41-b2bc98f7de74)
+
 ## Features
 
 *   Processes resumes from a `.zip` file.
