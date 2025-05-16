@@ -115,5 +115,5 @@ This Python script automates the process of extracting information from a collec
 *   **Low Extraction Quality:**
     *   The resume format might be complex or image-based (scanned PDF without OCR).
     *   Consider improving the prompt sent to the OpenAI API within the `parse_info_from_text` function for more targeted extraction if needed.
-*   **Dependencies Not Found:** Make sure you have run `pip install -r requirements.txt` (if a `requirements.txt` is provided) or `pip install PyMuPDF python-docx pandas openai`.
+*   **Dependencies Not Found:** Make sure you have run `pip install PyMuPDF python-docx pandas openai`.
 
